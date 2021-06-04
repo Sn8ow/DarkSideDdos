@@ -7,6 +7,7 @@ or
 
 **Windows**
 You need to download python [Link to download](https://www.python.org/downloads/)
+
 (YOU MUST ALLOW THE USE OF THE PIP COMMAND)
 >`pip install pysocks bs4 scapy-python3`
 ------------
