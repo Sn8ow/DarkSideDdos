@@ -9,17 +9,23 @@ or
 You need to download python [Link to download](https://www.python.org/downloads/)
 (YOU MUST ALLOW THE USE OF THE PIP COMMAND)
 >`pip install pysocks bs4 scapy-python3`
-or open .exe file
 ------------
 
-### Nasıl Kullanılır? - How To Use?
+### How To Use Linux
 >python3 UNSTABLE.py
+### How To Use Windows
+>`python DarkSideDdos.py`
+or open .exe file
 
-Video: https://www.youtube.com/watch?v=2hib9WjpJo8
+Video: Comming Back _.._
 
 
-Bu araç sadece eğitim amaçlı kodlanmış olup, doğabilecek zararlardan tamamen kullanıcı sorumludur.
+This tool is coded for educational purposes only, and the user is fully responsible for any damages that may arise.
 
 
-Contact: iletisim@UN5T48L3.com
+Contact: 
+
+Discord: MIMI#5103
+
+E-mail: sn8owccx@hmail.com
 
