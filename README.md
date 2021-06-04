@@ -28,5 +28,5 @@ Contact:
 
 Discord: MIMI#5103
 
-E-mail: sn8owccx@hmail.com
+E-mail: sn8owccx@gmail.com
 
