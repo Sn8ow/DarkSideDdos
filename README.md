@@ -13,7 +13,7 @@ You need to download python [Link to download](https://www.python.org/downloads/
 ------------
 
 ### How To Use Linux
->python3 UNSTABLE.py
+>`python3 DarkSideDdos.py`
 ### How To Use Windows
 >`python DarkSideDdos.py`
 or open .exe file
