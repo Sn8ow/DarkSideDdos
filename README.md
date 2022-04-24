@@ -4,6 +4,8 @@
 >`pip3 install pysocks bs4 scapy-python3`
 or
 >`pip install pysocks bs4 scapy-python3`
+or
+> pip install -r requirements.txt
 
 **Windows**
 You need to download python [Link to download](https://www.python.org/downloads/)
