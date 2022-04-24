@@ -1,0 +1,4 @@
+pysocks==1.7.1
+beautifulsoup4==4.10.0
+scapy-python3==0.26
+scapy==2.4.4
